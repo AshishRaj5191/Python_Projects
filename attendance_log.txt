@@ -1,0 +1,20 @@
+K.R. MANGALAM UNIVERSITY ATTENDANCE REPORT
+Generated On: 2025-11-15 10:28:31
+--------------------------------------------------
+Student Name		Check-in Time
+--------------------------------------------------
+Ashish Raj          	9:15 AM
+Alok Kumar          	9:10 AM
+Aditiya Kumar       	9:21 AM
+Ashwini Kumar       	9:12 Am
+Abhishek Kumar      	9:02 Am
+Abhijeet Kumar      	9:20 AM
+Utkarsh Kumar       	9:17 AM
+Shivam Kumar        	9:05 Am
+Arsh Kumar          	9:18 Am
+Arjun Kumar         	9:09 AM
+--------------------------------------------------
+Total Students Present: 10
+Total Students Absent:  80
+Total Class Strength:   90
+==================================================
